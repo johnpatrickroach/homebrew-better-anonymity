@@ -1,10 +1,10 @@
 class BetterAnonymity < Formula
   desc "MacOS Security, Privacy & Anonymity Tools"
-  homepage "https://github.com/phaedrus/better-anonymity"
+  homepage "https://github.com/johnpatrickroach/better-anonymity"
   url "https://github.com/johnpatrickroach/better-anonymity/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "cf76f0547b5e91a2e49b4f23266769e3459d1218778b08d9beeafdf6bdd15229"
   license "MIT"
-  head "https://github.com/phaedrus/better-anonymity.git", branch: "main"
+  head "https://github.com/johnpatrickroach/better-anonymity.git", branch: "main"
 
   def install
     # Install specific directories to libexec to ensure correct structure
