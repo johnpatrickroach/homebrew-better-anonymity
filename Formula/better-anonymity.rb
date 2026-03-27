@@ -1,8 +1,8 @@
 class BetterAnonymity < Formula
   desc "MacOS Security, Privacy & Anonymity Tools"
   homepage "https://github.com/johnpatrickroach/better-anonymity"
-  url "https://github.com/johnpatrickroach/better-anonymity/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "60ace20ebfec95bfc8c883f33eddb9651b7be58941a4f90d85799b553c9aa740"
+  url "https://github.com/johnpatrickroach/better-anonymity/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "305abdce0068ce14ac0b3109bc53102dae51b3127f9b7f86b3754319a26decca"
   license "MIT"
   head "https://github.com/johnpatrickroach/better-anonymity.git", branch: "main"
 
